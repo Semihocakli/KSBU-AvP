@@ -1,2 +1,2 @@
 # KSBU-AvP
-**Yapılan Bütün Lab Uygulamaları
+**Yapılan Bütün Lab Uygulamaları**
