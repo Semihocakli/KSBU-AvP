@@ -7,6 +7,7 @@
 <br>
 Pozitif kayma miktarı sağa doğru kaydırma, Negatif kayma miktarı sola doğru kaydırma olmalı
 <br>
+
 **Yükleyeceğiniz dosya ile ilgili önemli noktalar:**  
  
 - Dosyada fonksiyon tanımları (dosya içerisinde burada prototipi verilen fonksiyonların kodları yer almalıdır.) 
