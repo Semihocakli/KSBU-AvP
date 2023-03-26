@@ -1,4 +1,4 @@
-**Hafta 3 Lab Uygulaması** 
+**Hafta 4 Lab Uygulaması** 
 
 ***Dosya içerisinde tanımlanacak fonksiyonlar:*** 
 
